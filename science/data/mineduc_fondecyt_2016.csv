@@ -1,0 +1,153 @@
+id,tipo,n_registro,nombre,tipo_reconocimiento,documento_reconocimiento,n_documento_reconocimiento,fecha_reconocimiento,regimen_funcionamiento,año_reconocimiento,fondecyt_n_concursados,fondecyt_n_adjudicados,fondecyt_tasa_adjudicacion
+0,A,1,Universidad de Chile,Creación,Ley,s/n,1842-11-19,Autónoma,1842,880,357,40.6
+1,B,1,Pontificia Universidad Católica de Chile,Fundación,Decreto,S/N,1888-06-21,Autónoma,1888,695,339,48.8
+2,B,2,Universidad de Concepción,Fundación,Decreto Supremo,1038,1920-05-14,Autónoma,1920,364,135,37.1
+3,A,2,Universidad de Santiago de Chile,Creación,Decreto,1831,1947-09-04,Autónoma,1947,167,61,36.5
+4,B,4,Pontificia Universidad Católica de Valparaíso,Creación,Decreto,s/n,1928-03-15,Autónoma,1928,162,59,36.4
+5,B,3,Universidad Técnica Federico Santa María,Fundación,Decreto Supremo,996,1926-04-27,Autónoma,1926,139,56,40.3
+6,B,5,Universidad Austral de Chile,Fundación,Decreto,3757,1954-07-09,Autónoma,1954,142,48,33.8
+7,C,23,Universidad Andrés Bello,Autorización de Funcionamiento,Oficio,1077,1988-12-29,Autónoma,1988,111,44,39.6
+8,B,8,Universidad Católica de la Santísima Concepción,Fundación,Decreto,s/n,1991-10-07,Autónoma,1991,92,38,41.3
+9,C,43,Universidad San Sebastián,Autorización de Funcionamiento,Certificado,135,1990-09-02,Autónoma,1990,74,34,45.9
+10,A,9,Universidad de Talca,Creación,D.F.L,36,1981-03-10,Autónoma,1981,106,34,32.1
+11,B,7,Universidad Católica del Maule,Creación,Decreto,s/n,1991-10-07,Autónoma,1991,96,32,33.3
+12,B,9,Universidad Católica de Temuco,Fundación,Decreto,479,1991-10-07,Autónoma,1991,91,31,34.1
+13,A,7,Universidad de La Frontera,Creación,D.F.L,17,1981-10-03,Autónoma,1981,103,31,30.1
+14,A,6,Universidad del Bío-Bío,Creación,D.F.L,16,1981-10-03,Autónoma,1981,106,31,29.2
+15,C,3,Universidad Diego Portales,Autorización de Funcionamiento,Certificado,1082,1982-12-21,Autónoma,1982,87,30,34.5
+16,A,3,Universidad de Valparaíso,Creación,D.F.L,6,1981-10-02,Autónoma,1981,85,28,32.9
+17,C,74,Universidad Alberto Hurtado,Reconocimiento Oficial,Dex.,1001,1997-03-10,Autónoma,1997,53,25,47.2
+18,C,38,Universidad de Los Andes,Autorización de Funcionamiento,Certificado,141,1990-09-02,Autónoma,1990,61,21,34.4
+19,C,4,Universidad Central de Chile,Autorización de Funcionamiento,Certificado,125,1983-02-24,Autónoma,1983,46,18,39.1
+20,C,25,Universidad de Viña del Mar,Autorización de Funcionamiento,Oficio,574,1989-07-18,Autónoma,1989,49,17,34.7
+21,A,15,Universidad de Los Lagos,Creación,Ley,"19,238",1993-08-18,Autónoma,1993,60,15,25.0
+22,B,6,Universidad Católica del Norte,Fundación,Ley,"15,561",1964-04-02,Autónoma,1964,60,13,21.7
+23,A,5,Universidad de La Serena,Creación,D.F.L,12,1981-10-03,Autónoma,1981,35,13,37.1
+24,C,13,Universidad Mayor,Autorización de Funcionamiento,Oficio,390,1988-05-13,Autónoma,1988,24,10,41.7
+25,A,16,Universidad Tecnológica Metropolitana,Creación,Ley,"19,239",1993-08-18,Autónoma,1993,36,10,27.8
+26,C,49,Universidad del Desarrollo,Autorización de Funcionamiento,Certificado,167,1990-02-22,Autónoma,1990,37,9,24.3
+27,C,51,Universidad del Pacífico,Autorización de Funcionamiento,Certificado,209,1990-06-03,Autónoma,1990,21,9,42.9
+28,C,26,Universidad Adolfo Ibañez,Autorización de Funcionamiento,Certificado,38,1989-01-13,Autónoma,1989,47,8,17.0
+29,A,4,Universidad de Antofagasta,Creación,D.F.L,11,1981-10-03,Autónoma,1981,34,8,23.5
+30,A,11,Universidad de Tarapacá,Creación,D.F.L,150,1981-11-12,Autónoma,1981,43,8,18.6
+31,A,8,Universidad de Magallanes,Creación,D.F.L,35,1981-03-10,Autónoma,1981,21,7,33.3
+32,C,35,Universidad Autónoma de Chile,Autorización de Funcionamiento,Certificado,102,1990-01-31,Autónoma,1990,39,6,15.4
+33,C,2,Universidad Finis Terrae,Autorización de Funcionamiento,Certificado,S/N,1982-02-01,Autónoma,1982,51,6,11.8
+34,C,16,Universidad Santo Tomás,Autorización de Funcionamiento,Certificado,1180,1988-12-28,Autónoma,1988,23,6,26.1
+35,C,14,Universidad Academia de Humanismo Cristiano,Autorización de Funcionamiento,Certificado,783,1988-08-26,Autónoma,1988,20,5,25.0
+36,A,13,Universidad Metropolitana de Ciencias de la Educación,Creación,Ley,"18,433",1985-08-23,Autónoma,1985,46,5,10.9
+37,C,46,Universidad Católica Cardenal Raúl Silva Henríquez,Reconocimiento Oficial,Dex.,246,1991-08-16,Autónoma,1991,22,4,18.2
+38,A,12,Universidad Arturo Prat,Creación,Ley,"18,368",1984-12-14,Autónoma,1984,14,3,21.4
+39,C,54,Universidad Bernardo O'Higgins,Autorización de Funcionamiento,Certificado,232,1990-07-03,Autónoma,1990,11,2,18.2
+40,C,42,Universidad Adventista de Chile,Autorización de Funcionamiento,Certificado,119,1990-06-02,Autónoma,1990,6,1,16.7
+41,C,44,Universidad de Arte y Ciencias Sociales ARCIS,Autorización de Funcionamiento,Certificado,245,1990-09-03,Autónoma,1990,5,1,20.0
+42,A,10,Universidad de Atacama,Creación,D.F.L,37,1981-03-10,Autónoma,1981,11,1,9.1
+43,A,14,Universidad de Playa Ancha de Ciencias de la Educación,Creación,Ley,"18,434",1985-08-23,Autónoma,1985,25,1,4.0
+44,E,119,Centro de Formación Técnica ALFA,Autorización de Funcionamiento,Dex.,32,1985-08-02,Supervisada,1985,0,0,0.0
+45,E,186,Centro de Formación Técnica Alpes,Autorización de Funcionamiento,Dex.,35,1989-03-16,Autónoma,1989,0,0,0.0
+46,E,65,Centro de Formación Técnica Andrés Bello,Autorización de Funcionamiento,Dex.,216,1982-12-20,Autónoma,1982,0,0,0.0
+47,E,62,Centro de Formación Técnica Barros Arana,Autorización de Funcionamiento,Dex.,203,1982-11-29,Autónoma,1982,0,0,0.0
+48,E,260,Centro de Formación Técnica CEDUC - UCN,Reconocimiento Oficial,Dex.,105,1999-12-04,Autónoma,1999,0,0,0.0
+49,E,286,Centro de Formación Técnica CEITEC,Reconocimiento Oficial,Dex.,548,2001-08-21,Autónoma,2001,0,0,0.0
+50,E,116,Centro de Formación Técnica CENCO,Autorización de Funcionamiento,Dex.,19,1985-01-25,Autónoma,1985,0,0,0.0
+51,E,58,Centro de Formación Técnica CEPA de la III Región,Autorización de Funcionamiento,Dex.,171,1982-09-15,Supervisada,1982,0,0,0.0
+52,E,118,Centro de Formación Técnica CRECIC,Autorización de Funcionamiento,Dex.,27,1985-01-31,Autónoma,1985,0,0,0.0
+53,E,40,Centro de Formación Técnica Centro Tecnológico Superior  INFOMED,Autorización de Funcionamiento,Dex.,81,1982-05-24,Autónoma,1982,0,0,0.0
+54,E,33,Centro de Formación Técnica Centro de Enseñanza de Alta Costura Paulina Diard,Autorización de Funcionamiento,Dex.,83,1982-05-24,Supervisada,1982,0,0,0.0
+55,E,230,Centro de Formación Técnica Cámara de Comercio de Santiago,Reconocimiento Oficial,Dex.,72,1995-01-27,Autónoma,1995,0,0,0.0
+56,E,25,Centro de Formación Técnica DUOC UC,Autorización de Funcionamiento,Dex.,62,1982-04-29,Autónoma,1982,0,0,0.0
+57,E,202,Centro de Formación Técnica EDUCAP,Autorización de Funcionamiento,Dex.,75,1990-01-03,Supervisada,1990,0,0,0.0
+58,E,365,Centro de Formación Técnica Escuela Culinaria Francesa,Reconocimiento Oficial,Dex.,1114,2010-07-29,Licenciamiento,2010,0,0,0.0
+59,E,109,Centro de Formación Técnica Escuela Superior de Administración de Negocios del Norte - ESANE DEL NORTE,Autorización de Funcionamiento,Dex.,3,1985-02-01,Autónoma,1985,0,0,0.0
+60,E,297,Centro de Formación Técnica Escuela de Artes Aplicadas Oficios de Fuego,Reconocimiento Oficial,Dex.,1006,2001-04-12,Autónoma,2001,0,0,0.0
+61,E,111,Centro de Formación Técnica Estudio Profesor Valero,Autorización de Funcionamiento,Dex.,13,1985-11-01,Supervisada,1985,0,0,0.0
+62,E,385,Centro de Formación Técnica FINNING,Reconocimiento Oficial,Dex.,1002,2013-09-13,Licenciamiento,2013,0,0,0.0
+63,E,178,Centro de Formación Técnica ICEL,Autorización de Funcionamiento,Dex.,39,1989-03-16,Autónoma,1989,0,0,0.0
+64,E,234,Centro de Formación Técnica INACAP,Reconocimiento Oficial,Dex.,700,1995-12-28,Autónoma,1995,0,0,0.0
+65,E,135,Centro de Formación Técnica IPROSEC,Autorización de Funcionamiento,Dex.,47,1986-03-24,Autónoma,1986,0,0,0.0
+66,E,18,Centro de Formación Técnica Instituto Central de Capacitación Educacional ICCE,Autorización de Funcionamiento,Dex.,38,1982-09-03,Autónoma,1982,0,0,0.0
+67,E,45,Centro de Formación Técnica Instituto Superior Alemán de Comercio INSALCO,Autorización de Funcionamiento,Dex.,100,1982-06-15,Supervisada,1982,0,0,0.0
+68,E,132,Centro de Formación Técnica Instituto Superior de Estudios Jurídicos CANON,Autorización de Funcionamiento,Dex.,41,1986-03-24,Autónoma,1986,0,0,0.0
+69,E,194,Centro de Formación Técnica Instituto Técnológico de Chile - I.T.C.,Autorización de Funcionamiento,Dex.,76,1990-01-03,Autónoma,1990,0,0,0.0
+70,E,61,Centro de Formación Técnica Juan Bohon,Autorización de Funcionamiento,Dex.,202,1982-11-29,Autónoma,1982,0,0,0.0
+71,E,231,Centro de Formación Técnica LAPLACE,Reconocimiento Oficial,Dex.,305,1995-05-17,Autónoma,1995,0,0,0.0
+72,E,84,Centro de Formación Técnica Los Lagos,Autorización de Funcionamiento,Dex.,42,1983-02-18,Autónoma,1983,0,0,0.0
+73,E,32,Centro de Formación Técnica Los Leones,Autorización de Funcionamiento,Dex.,82,1982-05-24,Supervisada,1982,0,0,0.0
+74,E,254,Centro de Formación Técnica Lota-Arauco,Reconocimiento Oficial,Dex.,548,1998-04-05,Autónoma,1998,0,0,0.0
+75,E,89,Centro de Formación Técnica Luis Alberto Vera,Autorización de Funcionamiento,Dex.,74,1983-12-04,Supervisada,1983,0,0,0.0
+76,E,348,Centro de Formación Técnica MAGNOS,Reconocimiento Oficial,Dex.,1920,2005-12-28,Licenciamiento,2005,0,0,0.0
+77,E,355,Centro de Formación Técnica MANPOWER,Reconocimiento Oficial,Dex.,757,2007-04-16,Autónoma,2007,0,0,0.0
+78,E,77,Centro de Formación Técnica Massachusetts,Autorización de Funcionamiento,Dex.,29,1983-03-02,Supervisada,1983,0,0,0.0
+79,E,287,Centro de Formación Técnica PROANDES,Reconocimiento Oficial,Dex.,135,2001-05-04,Autónoma,2001,0,0,0.0
+80,E,123,Centro de Formación Técnica PRODATA,Autorización de Funcionamiento,Dex.,45,1985-02-20,Autónoma,1985,0,0,0.0
+81,E,354,Centro de Formación Técnica PROFASOC,Reconocimiento Oficial,Dex.,364,2006-03-04,Licenciamiento,2006,0,0,0.0
+82,E,307,Centro de Formación Técnica PROTEC,Reconocimiento Oficial,Dex.,671,2002-07-23,Autónoma,2002,0,0,0.0
+83,E,171,Centro de Formación Técnica San Agustín de Talca,Autorización de Funcionamiento,Dex.,98,1988-06-05,Autónoma,1988,0,0,0.0
+84,E,64,Centro de Formación Técnica Santo Tomás,Autorización de Funcionamiento,Dex.,217,1982-12-20,Autónoma,1982,0,0,0.0
+85,E,28,Centro de Formación Técnica Simón Bolivar,Autorización de Funcionamiento,Dex.,65,1982-04-29,Autónoma,1982,0,0,0.0
+86,E,336,Centro de Formación Técnica Teodoro Wickel Kluwen,Reconocimiento Oficial,Dex.,823,2004-01-10,Autónoma,2004,0,0,0.0
+87,E,305,Centro de Formación Técnica U. Valpo o CFT UV,Reconocimiento Oficial,Dex.,228,2002-03-20,Autónoma,2002,0,0,0.0
+88,E,334,Centro de Formación Técnica UCEVALPO,Reconocimiento Oficial,Dex.,216,2004-03-31,Autónoma,2004,0,0,0.0
+89,E,280,Centro de Formación Técnica UDA,Reconocimiento Oficial,Dex.,355,2000-09-14,Autónoma,2000,0,0,0.0
+90,E,22,Centro de Formación Técnica de ENAC,Autorización de Funcionamiento,Dex.,44,1982-03-23,Autónoma,1982,0,0,0.0
+91,E,299,Centro de Formación Técnica de Tarapacá,Reconocimiento Oficial,Dex.,273,2002-08-04,Autónoma,2002,0,0,0.0
+92,E,320,Centro de Formación Técnica de la Industria Gráfica o CFT.  INGRAF,Reconocimiento Oficial,Dex.,176,2003-03-24,Autónoma,2003,0,0,0.0
+93,E,239,Centro de Formación Técnica del Medio Ambiente,Reconocimiento Oficial,Dex.,471,1996-08-23,Autónoma,1996,0,0,0.0
+94,D,49,Instituto Profesional AIEP,Autorización de Funcionamiento,Dex.,121,1989-07-25,Autónoma,1989,0,0,0.0
+95,D,15,Instituto Profesional Adventista,Autorización de Funcionamiento,Dex.,160,1982-12-09,Autónoma,1982,0,0,0.0
+96,D,5,Instituto Profesional Agrario Adolfo Matthei,Autorización de Funcionamiento,Dex.,280,1981-01-12,Autónoma,1981,0,0,0.0
+97,D,25,Instituto Profesional Alemán Wilhelm Von Humboldt,Autorización de Funcionamiento,Dex.,11,1988-01-27,Autónoma,1988,0,0,0.0
+98,D,68,Instituto Profesional CIISA,Autorización de Funcionamiento,Dex.,54,1990-02-14,Autónoma,1990,0,0,0.0
+99,D,89,Instituto Profesional Carlos Casanueva,Reconocimiento Oficial,Dex.,112,1993-12-03,Autónoma,1993,0,0,0.0
+100,D,14,Instituto Profesional Chileno Británico de Cultura,Autorización de Funcionamiento,Dex.,159,1982-09-13,Examinada,1982,0,0,0.0
+101,D,117,Instituto Profesional Chileno Norteamericano,Reconocimiento Oficial,Dex.,2429,2007-10-12,Licenciamiento,2007,0,0,0.0
+102,D,17,Instituto Profesional DUOC UC,Autorización de Funcionamiento,Dex.,3,1983-06-01,Autónoma,1983,0,0,0.0
+103,D,26,Instituto Profesional Diego Portales,Autorización de Funcionamiento,Dex.,13,1988-01-27,Autónoma,1988,0,0,0.0
+104,D,45,Instituto Profesional Dr. Virginio Gómez G.,Autorización de Funcionamiento,Dex.,69,1989-06-04,Autónoma,1989,0,0,0.0
+105,D,43,Instituto Profesional EATRI Instituto Profesional,Autorización de Funcionamiento,Dex.,58,1989-03-28,Autónoma,1989,0,0,0.0
+106,D,38,Instituto Profesional ESUCOMEX,Autorización de Funcionamiento,Dex.,28,1989-03-14,Autónoma,1989,0,0,0.0
+107,D,35,Instituto Profesional Escuela Moderna de Música,Autorización de Funcionamiento,Dex.,197,1988-12-23,Autónoma,1988,0,0,0.0
+108,D,119,Instituto Profesional Escuela de Cine de Chile,Reconocimiento Oficial,Dex.,857,2009-12-05,Licenciamiento,2009,0,0,0.0
+109,D,10,Instituto Profesional Escuela de Contadores Auditores de Santiago,Autorización de Funcionamiento,Dex.,7,1982-12-01,Autónoma,1982,0,0,0.0
+110,D,54,Instituto Profesional Hogar Catequístico,Autorización de Funcionamiento,Dex.,188,1989-11-27,Autónoma,1989,0,0,0.0
+111,D,6,Instituto Profesional INACAP,Autorización de Funcionamiento,Dex.,290,1981-10-12,Autónoma,1981,0,0,0.0
+112,D,19,Instituto Profesional IPG,Autorización de Funcionamiento,Dex.,116,1984-01-08,Autónoma,1984,0,0,0.0
+113,D,108,Instituto Profesional Instituto Internacional de Artes Culinarias y Servicios,Reconocimiento Oficial,Dex,510,2008-12-02,Licenciamiento,2008,0,0,0.0
+114,D,100,Instituto Profesional Instituto Nacional del Fútbol,Reconocimiento Oficial,Dex.,243,1997-02-21,Autónoma,1997,0,0,0.0
+115,D,23,Instituto Profesional Instituto Superior de Artes y Ciencias de la Comunicación,Autorización de Funcionamiento,Dex.,229,1987-11-13,Autónoma,1987,0,0,0.0
+116,D,9,Instituto Profesional Instituto de Estudios Bancarios Guillermo Subercaseaux,Autorización de Funcionamiento,Dex.,6,1982-12-01,Autónoma,1982,0,0,0.0
+117,D,32,Instituto Profesional La Araucana,Autorización de Funcionamiento,Dex.,191,1988-05-12,Autónoma,1988,0,0,0.0
+118,D,58,Instituto Profesional Latinoamericano de Comercio Exterior - IPLACEX,Autorización de Funcionamiento,Dex.,6,1990-09-01,Autónoma,1990,0,0,0.0
+119,D,7,Instituto Profesional Libertador de Los Andes,Autorización de Funcionamiento,Dex.,292,1981-12-22,Autónoma,1981,0,0,0.0
+120,D,71,Instituto Profesional Los Lagos,Autorización de Funcionamiento,Dex.,58,1990-02-14,Autónoma,1990,0,0,0.0
+121,D,61,Instituto Profesional Los Leones,Autorización de Funcionamiento,Dex.,36,1990-01-29,Autónoma,1990,0,0,0.0
+122,D,128,Instituto Profesional Mar Futuro,Reconocimiento Oficial,Dex.,515,2013-06-18,Licenciamiento,2013,0,0,0.0
+123,D,111,Instituto Profesional PROJAZZ,Reconocimiento Oficial,Dex.,402,2007-01-26,Autónoma,2007,0,0,0.0
+124,D,12,Instituto Profesional Providencia,Autorización de Funcionamiento,Dex.,57,1982-04-14,Autónoma,1982,0,0,0.0
+125,D,22,Instituto Profesional Santo Tomás,Autorización de Funcionamiento,Dex.,114,1987-10-06,Autónoma,1987,0,0,0.0
+126,D,129,Instituto Profesional Vertical Instituto Profesional,Reconocimiento Oficial,Dex.,713,2011-04-04,Licenciamiento,2011,0,0,0.0
+127,D,50,Instituto Profesional de Arte y Comunicación ARCOS,Autorización de Funcionamiento,Dex.,123,1989-07-28,Autónoma,1989,0,0,0.0
+128,D,125,Instituto Profesional de Artes Escénicas Karen Connolly,Reconocimiento Oficial,Dex.,980,2012-04-20,Licenciamiento,2012,0,0,0.0
+129,D,29,Instituto Profesional de Chile,Autorización de Funcionamiento,Dex.,160,1988-09-29,Autónoma,1988,0,0,0.0
+130,D,76,Instituto Profesional de Ciencias de la Computación Acuario Data,Autorización de Funcionamiento,Dex.,64,1990-02-27,Examinada,1990,0,0,0.0
+131,D,37,Instituto Profesional de Ciencias y Artes INCACEA,Autorización de Funcionamiento,Dex.,10,1989-01-20,Autónoma,1989,0,0,0.0
+132,D,46,Instituto Profesional de Ciencias y Educación Helen Keller,Autorización de Funcionamiento,Dex.,90,1989-05-05,Examinada,1989,0,0,0.0
+133,D,39,Instituto Profesional de ENAC,Autorización de Funcionamiento,Dex.,31,1989-03-16,Autónoma,1989,0,0,0.0
+134,D,44,Instituto Profesional de Los Angeles,Autorización de Funcionamiento,Dex.,57,1989-03-27,Examinada,1989,0,0,0.0
+135,D,77,Instituto Profesional del Comercio,Autorización de Funcionamiento,Dex.,62,1990-02-27,Autónoma,1990,0,0,0.0
+136,D,82,Instituto Profesional del Valle Central,Autorización de Funcionamiento,Dex.,69,1988-06-04,Autónoma,1988,0,0,0.0
+137,C,10,Universidad Bolivariana,Autorización de Funcionamiento,Certificado,584,1988-06-21,Autónoma,1988,0,0,0.0
+138,C,89,Universidad Chileno Británica de Cultura,Reconocimiento Oficial,Dex.,136,2006-01-02,Licenciamiento,2006,0,0,0.0
+139,C,1,Universidad Gabriela Mistral,Autorización de Funcionamiento,Certificado,S/N,1981-01-12,Autónoma,1981,0,0,0.0
+140,C,28,"Universidad Iberoamericana de Ciencias y Tecnología, UNICIT",Autorización de Funcionamiento,Oficio,803,1989-09-25,Autónoma,1989,0,0,
+141,C,101,Universidad La Araucana,Reconocimiento Oficial,Dex.,43,2012-01-20,Licenciamiento,2012,0,0,0.0
+142,C,19,Universidad La República,Autorización de Funcionamiento,Oficio,98,1989-02-13,Autónoma,1989,0,0,
+143,C,52,Universidad Los Leones,Autorización de Funcionamiento,Certificado,208,1990-06-03,Autónoma,1990,0,0,0.0
+144,C,72,Universidad Miguel de Cervantes,Reconocimiento Oficial,Dex.,1169,1997-11-27,Autónoma,1997,0,0,0.0
+145,C,12,Universidad Pedro de Valdivia,Autorización de Funcionamiento,Certificado,770,1988-08-25,Autónoma,1988,0,0,0.0
+146,C,20,Universidad Sek,Autorización de Funcionamiento,Oficio,93,1989-09-02,Autónoma,1989,0,0,0.0
+147,C,58,Universidad Tecnológica de Chile INACAP,Reconocimiento Oficial,Dex.,22,1992-01-29,Autónoma,1992,0,0,0.0
+148,C,32,Universidad UCINF,Autorización de Funcionamiento,Oficio,1031,1989-10-27,Autónoma,1989,1,0,0.0
+149,C,50,Universidad de Aconcagua,Autorización de Funcionamiento,Certificado,140,1991-01-31,Autónoma,1991,0,0,0.0
+150,C,29,"Universidad de Artes, Ciencias y Comunicación - UNIACC",Autorización de Funcionamiento,Oficio,937,1989-10-18,Autónoma,1989,0,0,0.0
+151,C,22,Universidad de Las Américas,Autorización de Funcionamiento,Oficio,1060,1988-12-23,Autónoma,1988,0,0,
