@@ -32,7 +32,7 @@ def create_cds_key(s):
 
 # mode=inline bundles the bokeh js and css in the html rather than accessing the cdn
 # this is handy since kaggle scripts can't access internet resources
-output_file('display_fondecyt_regular.html', title='Centro de Estudios ANIP')
+output_file('fondecyt_regular.html', title='Centro de Estudios ANIP')
 
 # Read Mineduc data
 mineduc_file='data/Mineduc Listado IES Vigentes 05-2016.csv'
