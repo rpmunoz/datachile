@@ -1,11 +1,12 @@
+#! /usr/bin/env python
+
 """
-Access the visualization by clicking on the HTML file in the Files tab.
+This Python code was designed to analyze publicly-available data from Conicyt and Fondecyt.
+The dataset is based on the Fondeyt Regular database between the years 2010 and 2016.
+It shows how to combine pandas and bokeh to make interactive visualizations.
 
-Bokeh is a fantastic interactive visualization library. Check it out here:
-http://bokeh.pydata.org/en/latest/
-
-I'm happy to answer any questions you may have, just leave a comment. Feel free to share any ideas or thoughts you have
-as well. I'd especially love to see what other kinds of visualizations you guys can come up with using Bokeh!
+Author: Roberto P. Muñoz
+Email: rmunoz@uc.cl
 """
 
 import numpy as np
