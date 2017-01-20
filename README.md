@@ -1,2 +1,2 @@
 # Data Chile
-The most comprehensive analysis and visualization of Chile public data
+A collection of public data from Chile. Mostly focused in Science, Technology and Innovation.
